@@ -54,12 +54,3 @@ likely to churn.
 ## Developed During
 Data Science & AI Internship
 
-How to update on GitHub:
-
-Go to your repo → click README.md
-Click the pencil icon (edit)
-Select all existing text → delete it
-Paste the above content
-Click "Commit changes" → "Commit changes" again
-
-Done! Your README is now interview-ready with real numbers and proper detail.Claude Fable 5 is currently unavailable.
