@@ -1,6 +1,4 @@
-Here's your complete updated README — copy this fully:
-
-markdown# Customer Churn Prediction
+# Customer Churn Prediction
 
 ## Project Overview
 Built a Machine Learning model to predict which telecom customers 
